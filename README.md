@@ -1,1 +1,1 @@
-# dictionary-app-interface
+# dictionary-app-interface:This presentation will explore the development of a dictionary app interface using the CDNjs API. We'll delve into the process, highlighting key features and functionalities, and showcasing the app's user experience.This presentation will explore the development of a dictionary app interface using the CDNjs API. We'll delve into the process, highlighting key features and functionalities, and showcasing the app's user experience.
